@@ -1,0 +1,89 @@
+characters.png
+size: 469, 411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+adventurer_hurt
+  rotate: false
+  xy: 388, 1
+  size: 80, 97
+  orig: 80, 110
+  offset: 0, 2
+  index: -1
+adventurer_jump
+  rotate: false
+  xy: 388, 188
+  size: 73, 98
+  orig: 80, 110
+  offset: 3, 0
+  index: -1
+adventurer_slide
+  rotate: false
+  xy: 388, 100
+  size: 80, 86
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+adventurer_walk1
+  rotate: false
+  xy: 126, 177
+  size: 74, 94
+  orig: 80, 110
+  offset: 2, 0
+  index: -1
+adventurer_walk2
+  rotate: false
+  xy: 401, 288
+  size: 74, 94
+  orig: 80, 110
+  offset: 12, 0
+  index: -1
+flyMan_fly
+  rotate: true
+  xy: 126, 288
+  size: 122, 139
+  orig: 122, 139
+  offset: 0, 0
+  index: -1
+flyMan_still_fly
+  rotate: true
+  xy: 267, 288
+  size: 120, 132
+  orig: 120, 132
+  offset: 0, 0
+  index: -1
+spikeBall1
+  rotate: true
+  xy: 238, 1
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+spikeBall
+  rotate: false
+  xy: 238, 145
+  size: 148, 141
+  orig: 148, 141
+  offset: 0, 0
+  index: 2
+wingMan1
+  rotate: false
+  xy: 110, 1
+  size: 174, 126
+  orig: 174, 126
+  offset: 0, 0
+  index: -1
+wingMan2
+  rotate: true
+  xy: 1, 1
+  size: 206, 107
+  orig: 206, 107
+  offset: 0, 0
+  index: -1
+wingMan5
+  rotate: true
+  xy: 1, 209
+  size: 182, 123
+  orig: 182, 123
+  offset: 0, 0
+  index: -1
